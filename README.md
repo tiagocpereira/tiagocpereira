@@ -1,4 +1,4 @@
-### Olá! Eu sou o Tiago Pereira. 👋
+### Olá! sou o Tiago Pereira. 👋
 
 <!--
   💻 Estudando javascript
