@@ -1,8 +1,10 @@
-### Olá! sou o Tiago Pereira. 👋
-
-💻 Estudando Desenvolvimento Web
-
-  <div align="center">
+<div align="left" >
+<h1>Olá! sou o Tiago Pereira. 👋</h1>
+  💻 Estudando Desenvolvimento Web
+</h1>
+<br>
+  <div align="left">
+  <br>
   <a href="https://github.com/tiagocpereira">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tiagocpereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocpereira&layout=compact&langs_count=7&theme=dracula"/>
