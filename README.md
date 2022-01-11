@@ -1,6 +1,6 @@
 ### Olá! sou o Tiago Pereira. 👋
 
-💻 Estudando javascript
+💻 Estudando Desenvolvimento Web
 
   <div align="center">
   <a href="https://github.com/tiagocpereira">
